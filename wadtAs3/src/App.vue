@@ -5,13 +5,11 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-<div class="md:w-3/5 bg-gray-400 mx-auto rounded-xl p-3 md:flex space-x-4">
-  <div class="p-1 md:w-3/5 bg-white">
+<div class="w-3/5 bg-gray-400 mx-auto rounded-xl p-4 md:flex space-x-4">
   <img class="box-border w-2/5 rounded-xl mx-auto" src="./assets/Studentimg.png">
-  </div>
-  <div class="p-10">
-  <p class="md:text-xl text-3xl text-white">Muhd Fayyadh Wafiuddin</p>
-  <p class="sm:text-sm text-m text-white">Student ID: 20FTT1463</p>
+  <div class="p-2">
+  <p class="text-3xl text-white">Muhd Fayyadh Wafiuddin</p>
+  <p class="text-m text-white">Student ID: 20FTT1463</p>
   <p class="text-m text-white">Course: Web Development</p>
   <p class="text-m text-white">Intake: 10</p>
   <p class="text-m text-white">Currently Studying: Politeknik Brunei (2020-in progress)</p>
