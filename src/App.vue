@@ -14,6 +14,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <p class="text-m text-white">Intake: 10</p>
   <p class="text-m text-white">Currently Studying: Politeknik Brunei (2020-in progress)</p>
   <p class="text-m text-white">Previously Studying: CHMS</p>
+  <p class="text-m text-white">All done goodjob</p>
   </div>
 </div>
 </template>
